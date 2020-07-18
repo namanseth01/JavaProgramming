@@ -128,7 +128,7 @@ public class NumberNames {
                 System.out.println(".");
             }
         } else {
-            System.out.println("Number is out of asked range......");
+            System.out.println("Number is out of asked range.....");
         }
     }
 }
