@@ -6,7 +6,7 @@ public class RegistrationSoftware {
     String studentName, fatherName, motherName, permanentAddress;
     long studentContactNumber, fatherContactNumber, motherContactNumber;
     double percent12, percent10;
-    boolean hostelChoice;
+    boolean hostelChoice = false;
     static int univRollNumber = 191500400, classRollNumber = 0, flag = 0;
     char[] sections = {'A', 'B', 'C', 'D', 'E'};
     Scanner object = new Scanner(System.in);
